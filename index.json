@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "distilabel",
+  "versions": [
+    {
+      "commit": "313fac85b1a2472dd88db1a31c2b754599f46476",
+      "tag": "",
+      "parsed_at": "2026-11-08T01:36:20.880797+00:00"
+    }
+  ]
+}
